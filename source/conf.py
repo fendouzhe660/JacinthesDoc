@@ -13,12 +13,6 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-# -- Project theme -----------------------------------------------------
-import sphinx_rtd_theme
-
-html_theme = 'sphinx_rtd_theme'
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-
 # -- Project information -----------------------------------------------------
 
 project = 'Jacinthes'
